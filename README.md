@@ -5,6 +5,7 @@
 </div>
 
 # PHP Code Style
+[![Tests](https://github.com/CDS-UWB/php-code-style/actions/workflows/tests.yml/badge.svg)](https://github.com/CDS-UWB/php-code-style/actions/workflows/tests.yml)
 
 This repository contains the PHP CS Fixer coding style rules for CDS team PHP projects.
 
